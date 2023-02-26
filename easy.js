@@ -16,5 +16,9 @@ import { firstReverse } from "./easy/4_firstReverse.js";
 
 import { findIntersection } from "./easy/5_findintersection.js";
 
-console.log(findIntersection(["1, 3, 4, 7, 13", "1, 2, 4,1 3, 15"]));
+//console.log(findIntersection(["1, 3, 4, 7, 13", "1, 2, 4,1 3, 15"]));
+
+import { questionMark } from "./6_questionMarks.js";
+
+console.log(questionMark);
 
