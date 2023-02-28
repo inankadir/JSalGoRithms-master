@@ -20,5 +20,5 @@ import { findIntersection } from "./easy/5_findintersection.js";
 
 import { questionMark } from "./6_questionMarks.js";
 
-console.log(questionMark);
+console.log(questionMark("acc?7??sss?3rr1??????5"));
 
